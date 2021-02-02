@@ -1,2 +1,3 @@
-# Appium-Test-Vivino-Android
-Appium-Based Automated Tests for the "Vivino" App on Android
+# Appium Tests Vivino Android
+
+Appium-Based automated tests for the "Vivino" app on Android
