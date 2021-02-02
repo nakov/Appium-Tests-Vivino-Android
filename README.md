@@ -2,7 +2,7 @@
 
 Appium-based automated tests for the "Vivino" app on Android. Implements the following test scenario:
 1) Open the Vivino app in the Android emulator
-2) Login with pre-регистеред email + password
+2) Login with pre-registered email + password
 3) Click on the [Search] tab
 4) Find a wine by keywords: "Katarzyna Reserve Red 2006"
 5) Open the first search result
