@@ -28,3 +28,5 @@ The automated tests are designed to test the **"Vivino" app for Android, version
 
 ![image](https://user-images.githubusercontent.com/1689586/106616979-d3ddb200-6576-11eb-9f60-2a9992625fcc.png)
 
+![image](https://user-images.githubusercontent.com/1689586/106624346-3b4b3000-657e-11eb-9d69-9093e80d4b47.png)
+
